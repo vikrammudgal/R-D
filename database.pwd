@@ -1,0 +1,9 @@
+ DB_HOST = 3.108.40.112
+ DB_NAME = tt_admin
+ DB_USER = talkingtotals
+ DB_PWD = T@lkingTotals!@#$
+
+tt_customer_db_1_HOST = 3.108.40.112
+tt_customer_db_1_NAME = tt_customer_db_1
+tt_customer_db_1_USER = talkingtotals
+tt_customer_db_1_PWD = T@lkingTotals!@#$

@@ -1,0 +1,102 @@
+Fetched 52 rows for Groups
+Fetched 1458 rows for Ledgers
+Fetched 1529 rows for Stock
+Fetched 0 rows for Stock_Categories
+Fetched 7 rows for Stock_Groups
+Fetched 69 rows for Cost_Center
+Groups : 52
+Ledgers : 1458
+Stock : 1529
+Stock_Groups : 7
+Cost_Center : 69
+
+Query: Show me the debit balance of ledger account Amphenol Interconnect
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Groups', 'master_id': 32, 'master_name': 'Vehicle Maintenance', 'score': 51.28, 'matched_phrase': 'me the debit balance'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Groups', 'master_id': 47, 'master_name': 'Advance to Suppliers', 'score': 59.46, 'matched_phrase': 'balance of ledger'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Groups', 'master_id': 5, 'master_name': 'Capital Account', 'score': 52.17, 'matched_phrase': 'debit balance of ledger account'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Groups', 'master_id': 52, 'master_name': 'Advance From Customers', 'score': 50.0, 'matched_phrase': 'balance of ledger account amphenol'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Groups', 'master_id': 24, 'master_name': 'Bank Charges & Interest', 'score': 50.0, 'matched_phrase': 'account amphenol interconnect'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Groups', 'master_id': 16, 'master_name': 'Bank Accounts', 'score': 70.0, 'matched_phrase': 'account'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Groups', 'master_id': 10, 'master_name': 'Sales Accounts', 'score': 71.43, 'matched_phrase': 'ledger account'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Groups', 'master_id': 26, 'master_name': 'Others', 'score': 66.67, 'matched_phrase': 'the'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Groups', 'master_id': 23, 'master_name': 'Travel Advances', 'score': 54.55, 'matched_phrase': 'balance'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Groups', 'master_id': 8, 'master_name': 'Direct Incomes', 'score': 51.85, 'matched_phrase': 'debit balance'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Groups', 'master_id': 22, 'master_name': 'Sundry Debtors', 'score': 43.48, 'matched_phrase': 'the debit'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Groups', 'master_id': 38, 'master_name': 'Inter Co.', 'score': 66.67, 'matched_phrase': 'interconnect'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 891, 'master_name': 'Other Allowance', 'score': 62.5, 'matched_phrase': 'the debit balance'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 1312, 'master_name': 'The Special Officer NSP', 'score': 52.0, 'matched_phrase': 'the debit balance of ledger'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 224, 'master_name': 'Capital Account', 'score': 62.07, 'matched_phrase': 'ledger account'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 152, 'master_name': 'Balance Written Off', 'score': 68.97, 'matched_phrase': 'balance of'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 83, 'master_name': 'Amphenol Interconnect India Pvt Ltd', 'score': 75.0, 'matched_phrase': 'amphenol interconnect'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 566, 'master_name': 'HOTEL THE FORTUNE', 'score': 52.94, 'matched_phrase': 'show me the debit'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 1024, 'master_name': 'Rent Advance OEPL', 'score': 60.61, 'matched_phrase': 'debit balance of'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 730, 'master_name': 'Lease Amount K N Pushpa', 'score': 52.17, 'matched_phrase': 'ledger account amphenol'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 1181, 'master_name': 'S M SYSTEMS', 'score': 54.55, 'matched_phrase': 'show me the'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 1307, 'master_name': 'The Director', 'score': 66.67, 'matched_phrase': 'the debit'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 41, 'master_name': 'Advance to Lokesh', 'score': 58.82, 'matched_phrase': 'balance of ledger'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 450, 'master_name': 'Freight Amount', 'score': 58.06, 'matched_phrase': 'of ledger account'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 1184, 'master_name': 'Software', 'score': 53.33, 'matched_phrase': 'show me'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 289, 'master_name': 'Crome TV', 'score': 57.14, 'matched_phrase': 'me the'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 123, 'master_name': 'ATCO ENGINEER', 'score': 54.55, 'matched_phrase': 'of ledger'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 10, 'master_name': 'Accounting & Compliance Fees', 'score': 50.0, 'matched_phrase': 'account amphenol'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 228, 'master_name': 'Cash', 'score': 50.0, 'matched_phrase': 'show'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 828, 'master_name': 'MROTEK', 'score': 50.0, 'matched_phrase': 'me'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 1270, 'master_name': 'Tata Hexa', 'score': 50.0, 'matched_phrase': 'the'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 147, 'master_name': 'Baddebts', 'score': 61.54, 'matched_phrase': 'debit'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 1072, 'master_name': 'Salary Advance', 'score': 57.14, 'matched_phrase': 'balance'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 198, 'master_name': 'BlueDart', 'score': 57.14, 'matched_phrase': 'ledger'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 1322, 'master_name': 'Trasccon', 'score': 66.67, 'matched_phrase': 'account'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 383, 'master_name': 'Emahendra', 'score': 47.06, 'matched_phrase': 'amphenol'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Ledgers', 'master_id': 417, 'master_name': 'FCI OEN CONNECTORS', 'score': 60.0, 'matched_phrase': 'interconnect'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 85, 'master_name': '3M 3000WT  WATER  TIGHT SEALANT', 'score': 46.43, 'matched_phrase': 'show me the debit balance'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 898, 'master_name': '3M Tape 3950 Edge Sealer 80z', 'score': 47.06, 'matched_phrase': 'me the debit balance of'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 698, 'master_name': '3M SWITCH PPT CABLE FOR PELTOR HEADSET', 'score': 46.15, 'matched_phrase': 'the debit balance of ledger'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 357, 'master_name': '3M Alnox Electrical Joint Compound', 'score': 47.06, 'matched_phrase': 'balance of ledger account amphenol'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 549, 'master_name': '3M NOMED HEAVY DUTY', 'score': 50.0, 'matched_phrase': 'show me the debit'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 471, 'master_name': '3m Flx2 Headset Headband', 'score': 50.0, 'matched_phrase': 'me the debit balance'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 1483, 'master_name': 'HP Deskjet Printer', 'score': 45.71, 'matched_phrase': 'the debit balance'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 134, 'master_name': '3M 4611 Die Cuts Tape', 'score': 46.81, 'matched_phrase': 'of ledger account amphenol'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 1503, 'master_name': 'Server & AMC Charges of SIMHA SOFTWRE', 'score': 41.1, 'matched_phrase': 'ledger account amphenol interconnect'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 115, 'master_name': '3M 3779Q Hot Melt Adhesi', 'score': 45.71, 'matched_phrase': 'show me the'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 1390, 'master_name': '3M Tape AL50BT', 'score': 53.85, 'matched_phrase': 'me the debit'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 120, 'master_name': '3M 3950 Edge Sealer 8 OZ', 'score': 40.0, 'matched_phrase': 'debit balance of'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 371, 'master_name': '3M Black Conformable Safety Walk', 'score': 40.82, 'matched_phrase': 'balance of ledger'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 3, 'master_name': '3040 Electronics Coolant', 'score': 43.9, 'matched_phrase': 'of ledger account'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 1494, 'master_name': 'One Time Tool & Development Cost', 'score': 42.62, 'matched_phrase': 'account amphenol interconnect'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 1506, 'master_name': 'Software Services', 'score': 41.67, 'matched_phrase': 'show me'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 989, 'master_name': '3M Tape 5', 'score': 53.33, 'matched_phrase': 'me the'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 399, 'master_name': '3M DP420 Black', 'score': 44.44, 'matched_phrase': 'debit balance'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 661, 'master_name': '3M Sealant Gun', 'score': 41.67, 'matched_phrase': 'balance of'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 119, 'master_name': '3M 3950 Edge Sealer', 'score': 42.86, 'matched_phrase': 'of ledger'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 1508, 'master_name': 'static nozzle', 'score': 41.38, 'matched_phrase': 'account amphenol'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 516, 'master_name': '3M HFE-7100 Novec', 'score': 42.11, 'matched_phrase': 'amphenol interconnect'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 4, 'master_name': '3m', 'score': 50.0, 'matched_phrase': 'me'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 358, 'master_name': '3M Alnox Tube', 'score': 40.0, 'matched_phrase': 'balance'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 1493, 'master_name': 'Oil', 'score': 40.0, 'matched_phrase': 'of'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 1467, 'master_name': 'Edging', 'score': 50.0, 'matched_phrase': 'ledger'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock', 'master_id': 565, 'master_name': '3M Nozzles', 'score': 44.44, 'matched_phrase': 'amphenol'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock_Groups', 'master_id': 3, 'master_name': 'Others', 'score': 66.67, 'matched_phrase': 'the'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock_Groups', 'master_id': 4, 'master_name': 'Powerone', 'score': 50.0, 'matched_phrase': 'interconnect'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock_Groups', 'master_id': 1, 'master_name': '3M', 'score': 50.0, 'matched_phrase': 'me'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock_Groups', 'master_id': 2, 'master_name': 'ITW', 'score': 50.0, 'matched_phrase': 'debit'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Stock_Groups', 'master_id': 5, 'master_name': 'EMD', 'score': 44.44, 'matched_phrase': 'ledger'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 26, 'master_name': 'Jyothi Kulkarni', 'score': 43.75, 'matched_phrase': 'the debit balance'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 2, 'master_name': 'Accounting & Statutory Compliance', 'score': 51.61, 'matched_phrase': 'account amphenol interconnect'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 59, 'master_name': 'Seema Umesh Bhat', 'score': 48.48, 'matched_phrase': 'show me the debit'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 34, 'master_name': 'Mahadev Prasad', 'score': 41.18, 'matched_phrase': 'me the debit balance'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 24, 'master_name': 'Jeevitha P', 'score': 40.0, 'matched_phrase': 'the debit balance of'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 9, 'master_name': 'Bhavya Vinod Rao', 'score': 46.15, 'matched_phrase': 'balance of'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 3, 'master_name': 'Adarsha M T', 'score': 54.55, 'matched_phrase': 'show me the'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 39, 'master_name': 'Michel Das', 'score': 45.45, 'matched_phrase': 'me the debit'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 16, 'master_name': 'Deshikan', 'score': 47.62, 'matched_phrase': 'debit balance'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 38, 'master_name': 'Manjesh M', 'score': 50.0, 'matched_phrase': 'show me'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 43, 'master_name': 'Others', 'score': 66.67, 'matched_phrase': 'the'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 14, 'master_name': 'D Deepika', 'score': 44.44, 'matched_phrase': 'the debit'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 50, 'master_name': 'Prashanti Gowda', 'score': 42.11, 'matched_phrase': 'show'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 1, 'master_name': '3M', 'score': 50.0, 'matched_phrase': 'me'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 15, 'master_name': 'Deepika', 'score': 50.0, 'matched_phrase': 'debit'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 49, 'master_name': 'Pramila C', 'score': 50.0, 'matched_phrase': 'balance'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 25, 'master_name': 'JOE', 'score': 40.0, 'matched_phrase': 'of'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 56, 'master_name': 'Salesblg', 'score': 42.86, 'matched_phrase': 'ledger'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 19, 'master_name': 'Gopinath', 'score': 40.0, 'matched_phrase': 'account'}
+{'query': 'Show me the debit balance of ledger account Amphenol Interconnect', 'category': 'Cost_Center', 'master_id': 13, 'master_name': 'Conveyance', 'score': 45.45, 'matched_phrase': 'interconnect'}
