@@ -3242,11 +3242,54 @@ def build_context_prompt(query):
         "Answer based only on above entities and known financial context."
     )
 
+# --- Build dynamic stopwords ---
+def build_stopwords(master_data):
+    # Take all unique words from master names
+    master_vocab = set()
+    for entry in master_data:
+        for word in re.findall(r'\b\w+\b', entry["name"].lower()):
+            master_vocab.add(word)
+
+    # Common filler words in user queries
+    generic_stopwords = {
+        "what", "whats", "is", "are", "the", "to", "of", "in", "for", "last", "this", "that",
+        "trend", "sales", "sale", "purchases", "purchase", "quarter", "month", "monthly",
+        "weekly", "daily", "did", "we", "do", "how", "much", "my", "our", "on", "at"
+    }
+
+    # Only keep words that are NOT in master vocab
+    stopwords = {w for w in generic_stopwords if w not in master_vocab}
+    return stopwords
+
+# --- Abbreviation expansion ---
+def expand_abbreviations(text):
+    abbr_map = {
+        "mfg": "manufacturing",
+        "pvt": "private",
+        "ltd": "limited",
+        "co": "company",
+        "corp": "corporation",
+        "intl": "international",
+    }
+    words = text.split()
+    expanded_words = [abbr_map.get(w, w) for w in words]
+    return " ".join(expanded_words)
+
+# --- Clean query ---
+def clean_query(query, stopwords):
+    query = query.lower()
+    query = re.sub(r"[^\w\s]", "", query)  # remove punctuation
+    query = expand_abbreviations(query)
+    words = query.split()
+    words = [w for w in words if w not in stopwords]
+    return " ".join(words)
+
 # -----------------------------
 # 7. Example
 # -----------------------------
 if __name__ == "__main__":
-    user_query = "Did we cross 10 lakhs in sales for Accord Soft?"
+    # user_query = "Did we cross 10 lakhs in sales for Accord Soft?"
+    stopwords = build_stopwords(entities)
 
     # Example queries
     queries = [
@@ -3415,6 +3458,7 @@ if __name__ == "__main__":
     print('checking queries')
     for q in queries:
         print(f"\nQuery: {q}")
+        cleaned_entity = clean_query(q["name"], stopwords)
         print(build_context_prompt(q))
 
     
